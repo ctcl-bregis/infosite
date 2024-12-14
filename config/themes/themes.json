@@ -1,0 +1,10 @@
+[
+    {
+        "name": "gold",
+        "templates": "default",
+        "vars": {
+            "theme": "#009900",
+            "themefg": "#000000"
+        }
+    }
+]

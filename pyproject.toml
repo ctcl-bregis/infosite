@@ -1,0 +1,13 @@
+[project]
+name = "infosite"
+version = "0.1.0"
+requires-python = ">=3.8"
+dependencies = [
+    "flask",
+    "lysine",
+    "serine @ git+https://github.com/ctcl-bregis/serine.git@main#subdirectory=py",
+    "markdown",
+    "pydantic"
+]
+readme = "README.md"
+license = {file = "LICENSE"}

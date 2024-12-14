@@ -1,0 +1,6 @@
+{
+    "bindip": "0.0.0.0",
+    "bindport": 8000,
+    "domain": "ctcl.lgbt",
+    "loglevel": "debug"
+}
